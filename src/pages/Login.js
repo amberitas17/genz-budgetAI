@@ -72,7 +72,11 @@ const handleLogin = async () => {
         <button
   onClick={async () => {
     await supabase.auth.signInWithOAuth({
-      provider: "google",
+      provider: "google",  
+      options: {
+          redirectTo: window.location.origin + "/YOUR-REPO"
+        }
+
     });
   }}
 >

@@ -45,7 +45,7 @@ export default function Signup({ setPage }) {
     await supabase.auth.signInWithOAuth({
       provider: "google",
       options: {
-        redirectTo: "http://localhost:5173",
+        redirectTo: "https://amberitas17.github.io/genz-budgetAI/",
       },
     });
   };
