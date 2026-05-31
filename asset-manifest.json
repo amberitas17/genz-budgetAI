@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/genz-budgetAI/static/css/main.b849e645.css",
-    "main.js": "/genz-budgetAI/static/js/main.7bd37b3b.js",
+    "main.js": "/genz-budgetAI/static/js/main.662f500b.js",
     "static/js/453.5c190f3b.chunk.js": "/genz-budgetAI/static/js/453.5c190f3b.chunk.js",
     "index.html": "/genz-budgetAI/index.html",
     "main.b849e645.css.map": "/genz-budgetAI/static/css/main.b849e645.css.map",
-    "main.7bd37b3b.js.map": "/genz-budgetAI/static/js/main.7bd37b3b.js.map",
+    "main.662f500b.js.map": "/genz-budgetAI/static/js/main.662f500b.js.map",
     "453.5c190f3b.chunk.js.map": "/genz-budgetAI/static/js/453.5c190f3b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b849e645.css",
-    "static/js/main.7bd37b3b.js"
+    "static/js/main.662f500b.js"
   ]
 }
